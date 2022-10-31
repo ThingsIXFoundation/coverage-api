@@ -1,4 +1,4 @@
-module github.com/ThingsIXFoundation/coverage-api/go
+module github.com/ThingsIXFoundation/coverage-api
 
 go 1.18
 
